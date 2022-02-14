@@ -67,7 +67,7 @@ const FormSignup = ({ submitForm }) => {
           Buat Akun Baru
         </button>
         <span className='form-input-login'>
-          Kamu sudah memiliki Akun? Login <a href='#'>Disini</a>
+          Kamu sudah memiliki Akun?  <a href="/some/valid/uri">Login Disini</a>
         </span>
       </form>
     </div>
